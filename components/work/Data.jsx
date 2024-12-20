@@ -1,7 +1,7 @@
 import Work1 from "../../src/assets/bugLocalization.jpg";
 import Work2 from "../../src/assets/Eduverse.png";
 import Work3 from "../../src/assets/FarmConnect.jpg";
-import Work4 from "../../src/assets/Work4.png";
+import Work4 from "../../src/assets/porfoliopic.png";
 import Work5 from "../../src/assets/parkingLot.jpg";
 
 export const projectsData = [
@@ -37,9 +37,7 @@ export const projectsData = [
       image: Work4,
       title: "Portfolio Website",
       category: "web",
-      demo: "link",
-      live: "link",
-      github: "link"
+      github: "https://github.com/rajeev210403/Portfolio"
     },
     {
       id: 5,
