@@ -13,7 +13,7 @@ const LanguagesDatabases = () => {
 
                     <div>
                         <h3 className="skills__name">C++</h3>
-                        <span className="skills__level">Basic</span>
+                        <span className="skills__level">Advance</span>
                     </div>
                 </div>
 
@@ -31,7 +31,7 @@ const LanguagesDatabases = () => {
 
                     <div>
                         <h3 className="skills__name">Java</h3>
-                        <span className="skills__level">Basic</span>
+                        <span className="skills__level">Intermediate</span>
                     </div>
                 </div>
 
@@ -53,7 +53,7 @@ const LanguagesDatabases = () => {
 
                     <div>
                         <h3 className="skills__name">MySQL</h3>
-                        <span className="skills__level">Basic</span>
+                        <span className="skills__level">Intermediate</span>
                     </div>
                 </div>
 

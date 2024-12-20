@@ -10,7 +10,7 @@ export const projectsData = [
       image: Work1,
       title: "Bug Localization Tool",
       category: "tool",
-      description: "Bug localization tool using deep learning and NLP, which automates the detection of buggy code files based on bug reports.Significantly reduces time and manual effort of developers spend finding bugs in codebases.",
+      description: "Developed a transformer-based deep learning model that automates bug localization by analyzing bug reports and source code files, identifying and ranking the top 10 files most likely to contain the bug. Significantly reduces time and manual effort of developers spend finding bugs in codebases.",
       github: "https://github.com/rajeev210403/Bug-Localization"
     },
     {
@@ -18,7 +18,7 @@ export const projectsData = [
       image: Work2,
       title: "EduVerse",
       category: "web",
-      description: "Interactive web application that offers immersive 3D environment with the 3d models. Increases the student interaction and efficiency of learning.The app provides user-friendly controls for exploring complex topics in a gamified and engaging way. It also provides real time chatroom.",
+      description: "Interactive web app delivering immersive 3D learning experiences through integrated 3D models, enhancing student engagement and learning efficiency. Implemented secure user authentication and a chat system supporting group and personal interactions, Implemented chatbot.",
       live: "https://eduverse-frontend.onrender.com/",
       demo: "https://drive.google.com/file/d/1-pJX_ABY-5Wupd8eJps1_oaWlfxbyv5f/view",
       github: "https://github.com/rajeev210403/EduVerse-"
@@ -28,7 +28,7 @@ export const projectsData = [
       image: Work3,
       title: "FarmConnect.",
       category: "app",
-      description: "Developed FarmConnect, an app that removes the need for middlemen, making it easier for farmers and customers to connect. Reduces overall cost of the product.",
+      description: "Developed a farmer-buyer marketplace app eliminating middlemen to reduce product costs. Designed a multilingual AI chatbot using OpenAI API, with location and category-based search features across five product categories. Integrated Firebase for managing profiles and product listings.",
       demo: "https://drive.google.com/file/d/1v2yA_XiKi50o5KXoIJFgw0RJh9-LUt7E/view",
       github: "https://github.com/rajeev210403/FarmConnect"
     },

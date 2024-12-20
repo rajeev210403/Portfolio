@@ -18,10 +18,10 @@ const Frontend = () => {
                 </div>
 
                 <div className="skills__data">
-                    <i className='bx bxl-react'></i>
+                    <i className='bx bxl-cloud'></i>
 
                     <div>
-                        <h3 className="skills__name">React3Fiber</h3>
+                        <h3 className="skills__name">AWS</h3>
                         <span className="skills__level">Intermediate</span>
                     </div>
                 </div>

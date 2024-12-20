@@ -17,7 +17,8 @@ const About = () => {
           <div className="about__data">
             {/*    */}
 
-            <p className="about__description">Frontend Developer</p>
+            <p className="about__description">I’m Rajeev Thota, a Computer Science student at IIT Tirupati with expertise in Software Development. Skilled in C++, Python, React, and MySQL. </p>
+            <p className='about__description'>I’ve worked on diverse projects across various domains, including Web and App Development, Machine Learning, Artificial Intelligence , GenAI, API creation. I’m passionate about creating innovative solutions and improving user experiences.</p>
 
             <a download="" href={CV} className="button button--flex">Download CV 
               <svg
