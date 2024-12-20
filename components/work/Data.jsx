@@ -16,7 +16,7 @@ export const projectsData = [
     {
       id: 2,
       image: Work2,
-      title: "EduVerse",
+      title: "EduVerse 3D Web",
       category: "web",
       description: "Interactive web app delivering immersive 3D learning experiences through integrated 3D models, enhancing student engagement and learning efficiency. Implemented secure user authentication and a chat system supporting group and personal interactions, Implemented chatbot.",
       live: "https://eduverse-frontend.onrender.com/",
@@ -59,4 +59,7 @@ export const projectsData = [
     {
         name: 'web',
     },
+    {
+      name: 'app',
+  },
   ];
