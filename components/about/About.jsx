@@ -1,7 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
 import "./about.css";
-import AboutImg from "../../src/assets/profilepic.png";
+import AboutImg from "../../src/assets/profilenobg.png";
 import CV from "../../src/assets/CV_Rajeev.pdf";
 import Info from './Info';
 
