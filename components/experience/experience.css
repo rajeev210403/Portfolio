@@ -8,15 +8,17 @@
     position: relative;
     border: 1px solid rgba(0, 0, 0, 0.1);
     background-color: var(--container-color);
-    padding: 6rem 0 2rem 2.5rem;
+    padding: 4rem 0 2rem 2.5rem;
 }
 
 .exp__icon {
-    display: block;
-    font-size: 2rem;
-    color: var(--title-color);
-    margin-bottom: var(--mb-1);
-}
+    width: 30%;      /* Set to match your icon size */
+    height: 30%;
+    object-fit: contain;
+    margin-right: 8px; /* Optional: spacing between elements */
+    vertical-align: middle;
+    margin-bottom: 10px;
+  }
 
 .exp__title {
     font-size: var(--h3-font-size);
