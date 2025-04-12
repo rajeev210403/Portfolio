@@ -39,8 +39,7 @@ export const projectsData = [
       title: "College Appointment System.",
       category: "backend",
       description: "Developed a college appointment system backend with APIs to enable professors to manage availability and students to book appointments. Developed 8 API endpoints",
-      demo: "https://drive.google.com/file/d/1v2yA_XiKi50o5KXoIJFgw0RJh9-LUt7E/view",
-      github: "https://github.com/rajeev210403/FarmConnect"
+      github: "https://github.com/rajeev210403/College_Appointment_System"
     },
     {
       id: 5,
